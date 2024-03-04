@@ -18,7 +18,7 @@ public class GolderRapsberyAwardsResourceImpl implements GolderRapsberyAwardsRes
 
     private final ProducerService producerService;
 
-    public GolderRapsberyAwardsResourceImpl(ProducerService producerService) {
+    public GolderRapsberyAwardsResourceImpl(final ProducerService producerService) {
         this.producerService = producerService;
     }
 

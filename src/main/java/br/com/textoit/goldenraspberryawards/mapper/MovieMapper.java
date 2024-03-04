@@ -19,8 +19,6 @@ public interface MovieMapper {
     MovieResponseDTO to(Movie movie);
 
     @Mapping(source = "releaseYear", target = "year")
-    /*@Mapping(source = "producers", target = "producers")
-    @Mapping(target = "studios")*/
     MovieResponseDTO toDto(Movie movie);
 
 }

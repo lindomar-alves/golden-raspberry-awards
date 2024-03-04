@@ -1,6 +1,6 @@
 package br.com.textoit.goldenraspberryawards.resources.impl;
 
-import br.com.textoit.goldenraspberryawards.comom.AbstractTest;
+import br.com.textoit.goldenraspberryawards.resources.AbstractTest;
 import br.com.textoit.goldenraspberryawards.dto.MovieRequestDTO;
 import br.com.textoit.goldenraspberryawards.dto.MovieResponseDTO;
 import org.hamcrest.Matchers;

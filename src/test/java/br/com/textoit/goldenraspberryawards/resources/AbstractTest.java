@@ -1,4 +1,4 @@
-package br.com.textoit.goldenraspberryawards.comom;
+package br.com.textoit.goldenraspberryawards.resources;
 
 import br.com.textoit.goldenraspberryawards.GoldenRaspberryAwardsApplication;
 import io.restassured.RestAssured;
